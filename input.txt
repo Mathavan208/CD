@@ -1,0 +1,6 @@
+//constant
+res = + 10 20
+//constant
+output = * 5 4
+not_constant
+x = - 8 3
